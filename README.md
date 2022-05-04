@@ -9,3 +9,5 @@
 - Aula 07: Exercício Final
 - Aula 08: Criando um projeto Rails
 - Aula 09: Banco de dados com Rails
+
+Versão utilizada do Ruby: v3.1.1
